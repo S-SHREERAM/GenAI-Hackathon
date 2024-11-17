@@ -1,0 +1,11 @@
+Customer ID,Name,Age,Gender,Location,Purchase History,Browsing History,Loyalty Points,Last Purchase Date
+101,John Smith,34,Male,New York,"{""product1"": 2, ""product5"": 1}","Electronics, Furniture",200,01-11-2024
+102,Jane Doe,28,Female,Los Angeles,"{""product2"": 1, ""product4"": 3}","Beauty, Fitness",120,15-10-2024
+103,Robert Lee,45,Male,Chicago,{"product3": 1},"Outdoors, Sports",80,30-09-2024
+104,Emily Clark,32,Female,Houston,"{""product1"": 1, ""product3"": 2}","Electronics, Outdoors, Beauty",150,10-11-2024
+105,Michael Brown,50,Male,Phoenix,{"product2": 2},"Fitness, Home Appliances",220,20-08-2024
+106,Sarah Davis,27,Female,Philadelphia,"{""product4"": 1, ""product3"": 1}","Fashion, Beauty",90,15-07-2024
+107,David Wilson,40,Male,San Antonio,{"product1": 1},"Sports, Outdoors",140,05-10-2024
+108,Anna Johnson,29,Female,San Diego,"{""product2"": 3, ""product5"": 2}","Electronics, Home Decor",180,30-06-2024
+109,Paul Martinez,35,Male,Dallas,{"product3": 4},"Fitness, Sports",300,25-05-2024
+110,Laura Adams,38,Female,San Jose,"{""product1"": 2, ""product4"": 1}","Beauty, Electronics",250,10-04-2024
